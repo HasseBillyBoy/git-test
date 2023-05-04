@@ -5,3 +5,8 @@ h1 {
 p {
     color: violet;
 }
+
+video {
+    width: 560px; 
+    height: 315px;
+}
